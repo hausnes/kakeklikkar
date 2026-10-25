@@ -1,0 +1,2 @@
+# kakeklikkar
+Eit nybegynnarprosjekt: Kakeklikkar
